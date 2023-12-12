@@ -6,4 +6,6 @@ use (
 	./03userinput
 	./04conversion
 	./05mytime
+	./06mypointer
+	./07myarray	
 )
