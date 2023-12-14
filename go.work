@@ -7,5 +7,7 @@ use (
 	./04conversion
 	./05mytime
 	./06mypointer
-	./07myarray	
+	./07myarray
+	./08slices
+	./09maps
 )
