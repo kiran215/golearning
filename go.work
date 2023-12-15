@@ -10,4 +10,8 @@ use (
 	./07myarray
 	./08slices
 	./09maps
+	./10structs
+	./11ControlflowStmt
+	./12switchcase
+	./13loops
 )
