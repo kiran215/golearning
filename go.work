@@ -14,4 +14,7 @@ use (
 	./11ControlflowStmt
 	./12switchcase
 	./13loops
+	./14functions
+	./15methods
+	./16defer
 )
