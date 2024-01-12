@@ -173,7 +173,7 @@ func deleteOneCourse(w http.ResponseWriter, r *http.Request) {
 	//Set headers
 	w.Header().Set("Content-Type", "application/json")
 
-	//What is body is empty
+	//What if body is empty
 
 	if r.Body == nil {
 		json.NewEncoder(w).Encode("Invalid request")
