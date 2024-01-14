@@ -20,4 +20,6 @@ use (
 	./17WithFiles
 	./22BuildAPI
 	./25MongoAPI
+	./26GoRoutines
+	./27RaceCondition
 )
